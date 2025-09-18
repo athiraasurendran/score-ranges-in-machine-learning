@@ -22,5 +22,6 @@
   Excellent generalization if test score is also high.
 ---
 
-Above 90% train but test much lower (big gap) → Overfitting
-Model memorized training data, failed to generalize.
+- Above 90% train but test much lower (big gap) → Overfitting
+
+  Model memorized training data, failed to generalize.
